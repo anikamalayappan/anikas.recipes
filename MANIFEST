@@ -1,0 +1,53 @@
+ALL students complete this section:
+
+CHOICES
+(You are allowed to choose a feature for some of the requirements. Indicate on the line
+which one you chose using the letter provided in the spec. Separate the letters with a comma
+In some cases you will also need to tell us what you did)
+-------
+9a.I chose to do a text gradient from black to brown on the text in the pink grid elements.
+9b.I made the text inside the pink grid element responsive so it scales to different viewport sizes.
+12.a (gradient from beige to pink), b (used text-shadow on the "anika's recipes" in the title)
+18.a (the heart in the form legend)
+19.(duplicate)
+
+JAVASCRIPT
+(Please tells us what the JavaScript does e.g. "click on the green button and it does the following...")
+-------
+The first interactive element is the light/dark button. If you click on the moon icon, it will change the display to dark mode. If you click on the sun icon, it will change the display to light mode.
+
+The second interactive element is the hamburger icon button (only visible for viewports at and below 430 pixels of width). If you click on it, it will show the menu. Clicking on the light/dark button exits the menu and changes the display mode, and clicking on any of the links exits the menu and scrolls to the appropriate section.
+
+NOTES TO STAFF
+(If there is anything you need to tell us, please use the section below)
+-------
+
+
+
+
+ONLY modify this section if you implemented the requirements across 2 or more files.
+Otherwise, submit this file as is. PLEASE do not delete anything from this file.
+
+REQUIREMENT LOCATION
+(After the period, hit TAB and then enter the HTML page name where the requirement
+was implemented)
+-------
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
